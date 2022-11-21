@@ -1,5 +1,5 @@
 - Hi, I’m @nabilah-afrin
-- I’m interested in deep learnign and computer vision
+- I’m interested in deep learning and computer vision
 - I’m currently learning django and blockchain technology
 - I’m looking to work on as a data scientist or a machine learning engineer
 - My linkedin id: https://www.linkedin.com/in/nabilah-afrin-86497021a/
